@@ -34,7 +34,7 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 
 ## 📫 Contato
 
-![Gmail Badge](https://img.shields.io/badge/-jonathanguedes11@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanguedes11@gmail.com)
-[![Linkedin: Jonathan](https://img.shields.io/badge/-jonathanguedesm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanguedesm/)](https://www.linkedin.com/in/jonathanguedesm/) <br><br>
+![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jonathanguedes11@gmail.com)
+[![Linkedin: Jonathan](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathanguedesm/)](https://www.linkedin.com/in/jonathanguedesm/) <br><br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b612e8&height=120&section=footer"/>
