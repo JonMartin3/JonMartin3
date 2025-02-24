@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=JonMartin3&color=006bed)
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b612e8&height=120&section=header"/> 
 
 # 👋 Olá, eu sou Jonathan Martins
